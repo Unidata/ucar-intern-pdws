@@ -7,7 +7,7 @@
 
 </div>
 
-## Workshop 7: Data Management & Visualization
+## Workshop 6: Data Management & Visualization
 In this session of the UCAR Internship PDWS, we will show you how problem solving with data
 can be an exciting first step in any scientific journey you might embark on.
 Once that journey has begun, we can then wrap it up with some tips and resources for making
