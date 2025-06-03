@@ -2,7 +2,7 @@ name: ucar-intern-pdws
 channels:
  - conda-forge
 dependencies:
- - python
+ - python<3.13
  - cartopy
  - jupyterlab
  - matplotlib
@@ -12,6 +12,6 @@ dependencies:
  - pandas<2
  - pint
  - scipy
- - siphon=0.9
- - xarray<2024.03
+ - siphon
+ - xarray
  
